@@ -1,0 +1,13 @@
+<?xml version="1.0" standalone="yes"?>
+<site xmlns:a="http://a.dockter.com/a" xmlns:b="http://b.dockter.com/b">
+    <regions>
+        <a:asia>
+            <item id="item0">
+                <location>United States</location>
+                <b:quantity>1</b:quantity>
+                <name>duteous nine eighteen </name>
+                <payment> Creditcard</payment>
+            </item>
+        </a:asia>
+    </regions>
+</site>
